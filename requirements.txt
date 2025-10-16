@@ -1,0 +1,19 @@
+# requirements.txt (fixed)
+fastapi==0.104.1
+uvicorn==0.24.0
+# requirements.txt (SQLAlchemy fix for Python 3.13)
+SQLAlchemy>=2.0.40,<2.1
+
+pymysql==1.1.0
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+python-multipart==0.0.6
+streamlit==1.50.0
+requests==2.31.0
+pandas==2.2.3
+plotly==5.17.0
+python-dotenv==1.0.0
+cryptography>=43,<47
+
+
+bcrypt==4.0.1
