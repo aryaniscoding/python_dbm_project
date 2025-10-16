@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Result Management System
 
 A comprehensive student management system with role-based access for administrators, teachers, and students.
@@ -34,3 +35,6 @@ A comprehensive student management system with role-based access for administrat
 ## Setup Instructions
 
 1. **Install Dependencies**
+=======
+# python_dbm_project
+>>>>>>> 83aba68bcfda90f10436d768184d5e39de0c7f64
